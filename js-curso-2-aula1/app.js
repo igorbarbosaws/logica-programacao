@@ -1,3 +1,15 @@
+<<<<<<< HEAD
+=======
+// let numeroSecreto = parseInt(Math.random() * 11)
+// let tentativas = 1
+// let chute
+
+// alert('Boas vindas ao jogo do número secreto')
+
+// let paragrafo = document.querySelector('p');
+// paragrafo.innerHTML = 'Escolha um número entre 1 e 10';
+
+>>>>>>> 9d2922e7b57a4db457c94efa6fef1714074e2d18
 let numeroSecreto = gerarNumeroAleatorio();
 
 function exibirTextoNaTela(tag, texto) {
