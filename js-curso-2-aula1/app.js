@@ -1,15 +1,3 @@
-<<<<<<<<< Temporary merge branch 1
-// let numeroSecreto = parseInt(Math.random() * 11)
-// let tentativas = 1
-// let chute
-
-// alert('Boas vindas ao jogo do número secreto')
-
-// let paragrafo = document.querySelector('p');
-// paragrafo.innerHTML = 'Escolha um número entre 1 e 10';
-
-=========
->>>>>>>>> Temporary merge branch 2
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
